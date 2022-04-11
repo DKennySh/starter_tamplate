@@ -1,2 +1,3 @@
-1. `npm run dev` - запуск среды разработки
-2. `npm run build` - сборка проекта на продакшн
+- `git clone https://github.com/DKennySh/starter_tamplate.git project_name` - создание нового проекта
+- `npm run dev` - запуск среды разработки
+- `npm run build` - сборка проекта на продакшн
